@@ -1,3 +1,2 @@
 # TODO: Add Opening Joke?
-# This is the second joke?
 # Second joke shall be deleted.
